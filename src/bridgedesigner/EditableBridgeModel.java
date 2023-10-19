@@ -31,7 +31,7 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.event.UndoableEditEvent;
 import javax.swing.event.UndoableEditListener;
-import org.jdesktop.application.ResourceMap;
+//import org.jdesktop.application.ResourceMap;
 import bridgedesigner.Affine.Point;
 
 /**
